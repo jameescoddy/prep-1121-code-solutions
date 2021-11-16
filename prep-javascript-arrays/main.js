@@ -4,7 +4,7 @@ console.log(languages);
 var firstElement = languages[0];
 console.log('the frst element of the array is ' + firstElement);
 
-var thirdElement = languages[3];
+var thirdElement = languages[2];
 console.log('the third element of the array is ' + thirdElement);
 
 var length = languages.length;
